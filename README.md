@@ -2,3 +2,5 @@ This project aims to build a ASL gesture recognition glove to aid the deaf and d
 The following words can be recognised by the model: 
 Bad, Deaf, Fine, Good, Goodbye, Hello, Hungry, Me, No, Please, Sorry, Thank You, Yes, You. 
 
+HARDWARE COMPONENTS: Flex sensors, Arduino Mega
+
